@@ -1,5 +1,7 @@
 # Bypass CAPTCHAs With Puppeteer
 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-unlocker) 
+
 A quick guide to bypass CAPTCHAs by mimicking human behavior with Puppeteer. Skip the guide by signing up to Bright Data and opting-in for the [Web Unlocker API](https://brightdata.com/products/web-unlocker). 
 
 ## Step 1: Project Setup
